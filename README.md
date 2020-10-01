@@ -16,6 +16,11 @@
    </a>&nbsp;&nbsp;
 </p>
 
+<p align='center'>
+  🌐 View my portfolio: <a target="_blank" href='https://punith.netlify.app'>Click Here!</a> <br>
+  📫 How to reach me: <a href='mailto:poppunith2001@gmail.com'>poppunith2001@gmail.com</a>
+  <br>
+
 <p>
   <a href="#"><img src="https://badges.pufler.dev/visits/punith-gowda/punith-gowda"></a>
 </p>
