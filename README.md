@@ -3,11 +3,11 @@
 <h3> Socials: </h3>
 <p align="center">
   
-  <a href="#" target="https://www.linkedin.com/in/punith-gowda-t-6123aa1a2/">
+  <a href="https://www.linkedin.com/in/punith-gowda-t-6123aa1a2/" target="">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-  <a href="#" target="https://www.instagram.com/black_bad_fury/?hl=en">
+  <a href="https://www.instagram.com/black_bad_fury/?hl=en" target="">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 
