@@ -27,4 +27,5 @@
 
 
 
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punith-gowda&show_icons=true" alt="created-by-varun" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punith-gowda&layout=compact" alt="punith-gowda-T" /></p>
