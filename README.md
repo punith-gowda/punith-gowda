@@ -28,4 +28,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punith-gowda&layout=compact" alt="punith-gowda-T" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punith-gowda&layout=compact" alt="punith-gowda-T" /></p>
