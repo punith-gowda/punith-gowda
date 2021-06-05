@@ -25,6 +25,6 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/punith-gowda/punith-gowda"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punith-gowda&layout=compact" alt="created-by-varun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punith-gowda&show_icons=true" alt="created-by-varun" /></p>
+
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punith-gowda&show_icons=true" alt="created-by-varun" /></p>
