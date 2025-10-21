@@ -25,7 +25,7 @@
 ---
 
 ## 💻 About Me
-- 🔭 I’m currently working as a **Full Stack Developer** at Gida Technologies.  
+- 🔭 I’m currently working as a **Software Developer** at Auctane.  
 - 🌱 I’m learning **AI, Flutter, and Video Editing**.  
 - 👯 I’m open to collaborations on **React Native and Flutter projects**.  
 - 💬 Ask me about **JavaScript, Vue, Nuxt.js, and building web/mobile apps**.  
@@ -52,13 +52,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=punith-gowda&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punith-gowda&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 Profile Views
-<p align="center">
-  <a href="#"><img src="https://badges.pufler.dev/visits/punith-gowda/punith-gowda" /></a>
 </p>
 
 ---
